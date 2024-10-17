@@ -1,9 +1,4 @@
-
-import game.AutoGuesser;
-import game.CheatingExecutioner;
-import game.Executioner;
-import game.Guesser;
-import game.HangmanGame;
+package game;
 import util.HangmanDictionary;
 
 
